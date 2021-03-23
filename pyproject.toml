@@ -6,7 +6,7 @@ authors = ["Sergey Bugaev <bugaevc@smartdec.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-digitex-engine-client = "^3.135.*"
+digitex-engine-client = "^4.139.*"
 
 [tool.poetry.dev-dependencies]
 
